@@ -2,13 +2,8 @@
   "bar": [
     {
       "area": "Carbon Black",
-      "cat": "Windows XP",
-      "count": 1029
-    },
-    {
-      "area": "Carbon Black",
       "cat": "Windows 7",
-      "count": 963
+      "count": 20000
     },
     {
       "area": "Carbon Black",
@@ -16,19 +11,29 @@
       "count": 90000
     },
     {
-      "area": "中南",
+      "area": "McAfee Agent",
       "cat": "Windows 10",
-      "count": 905
+      "count": 150000
     },
     {
-      "area": "中南",
-      "cat": "Windows 10",
-      "count": 848
+      "area": "McAfee Agent",
+      "cat": "MacOS",
+      "count": 20000
     },
     {
-      "area": "中南",
-      "cat": "Windows 10",
-      "count": 2452
+      "area": "McAfee Agent",
+      "cat": "Windows 2008",
+      "count": 100
+    },
+	{
+      "area": "McAfee Agent",
+      "cat": "Windows 2012",
+      "count": 10000
+    },
+	{
+      "area": "McAfee Agent",
+      "cat": "Windows 2016",
+      "count": 20000
     },
     {
       "area": "东北",
