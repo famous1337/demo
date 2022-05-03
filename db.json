@@ -1,99 +1,99 @@
 {
   "bar": [
     {
-      "area": "华东",
-      "cat": "家具",
+      "area": "Carbon Black",
+      "cat": "Version",
       "count": 1029
     },
     {
-      "area": "华东",
-      "cat": "技术",
+      "area": "Carbon Black",
+      "cat": "Version",
       "count": 963
     },
     {
-      "area": "华东",
-      "cat": "办公用品",
+      "area": "Carbon Black",
+      "cat": "Version",
       "count": 2596
     },
     {
       "area": "中南",
-      "cat": "家具",
+      "cat": "Version",
       "count": 905
     },
     {
       "area": "中南",
-      "cat": "技术",
+      "cat": "Version",
       "count": 848
     },
     {
       "area": "中南",
-      "cat": "办公用品",
+      "cat": "Version",
       "count": 2452
     },
     {
       "area": "东北",
-      "cat": "家具",
+      "cat": "Version",
       "count": 603
     },
     {
       "area": "东北",
-      "cat": "技术",
+      "cat": "Version",
       "count": 582
     },
     {
       "area": "东北",
-      "cat": "办公用品",
+      "cat": "Version",
       "count": 1414
     },
     {
       "area": "华北",
-      "cat": "家具",
+      "cat": "Version",
       "count": 512
     },
     {
       "area": "华北",
-      "cat": "技术",
+      "cat": "Version",
       "count": 388
     },
     {
       "area": "华北",
-      "cat": "办公用品",
+      "cat": "Version",
       "count": 1428
     },
     {
       "area": "西南",
-      "cat": "家具",
+      "cat": "Version",
       "count": 398
     },
     {
       "area": "西南",
-      "cat": "技术",
+      "cat": "Version",
       "count": 366
     },
     {
       "area": "西南",
-      "cat": "办公用品",
+      "cat": "Version",
       "count": 999
     },
     {
       "area": "西北",
-      "cat": "家具",
+      "cat": "Version",
       "count": 257
     },
     {
       "area": "西北",
-      "cat": "技术",
+      "cat": "Version",
       "count": 194
     },
     {
       "area": "西北",
-      "cat": "办公用品",
+      "cat": "Version",
       "count": 523
     }
   ],
   "pie": [
     {
-      "area": "华东",
+      "area": "Carbon Black",
       "name": "洪光",
       "bill": 4588,
       "sale": 7924453
@@ -132,7 +132,7 @@
   "line": [
     {
       "time": "2016季1",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 238477
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "time": "2016季2",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 154431
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "time": "2016季3",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 297862
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "time": "2016季4",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 304962
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "time": "2017季1",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 233148
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "time": "2017季2",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 858747
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "time": "2017季3",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 419260
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "time": "2017季4",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 458239
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "time": "2018季1",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 223720
     },
     {
@@ -412,7 +412,7 @@
     },
     {
       "time": "2018季2",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 745563
     },
     {
@@ -442,7 +442,7 @@
     },
     {
       "time": "2018季3",
-      "area": "华东",
+      "area": "Carbon Black",
       "value": 639616
     },
     {
