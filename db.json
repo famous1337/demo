@@ -1,19 +1,19 @@
 {
   "bar": [
     {
-      "area": "Carbon Black",
-      "cat": "Windows 10",
-      "count": 10000
+      "area": "华东",
+      "cat": "家具",
+      "count": 1029
     },
     {
-      "area": "Carbon Black",
-      "cat": "Windows 7",
-      "count": 4000
+      "area": "华东",
+      "cat": "技术",
+      "count": 963
     },
     {
-      "area": "Carbon Black",
-      "cat": "Windows XP",
-      "count": 50
+      "area": "华东",
+      "cat": "办公用品",
+      "count": 2596
     },
     {
       "area": "中南",
