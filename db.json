@@ -2,17 +2,17 @@
   "bar": [
     {
       "area": "Carbon Black",
-      "cat": "Version",
+      "cat": "Windows XP",
       "count": 1029
     },
     {
       "area": "Carbon Black",
-      "cat": "Version",
+      "cat": "Windows 7",
       "count": 963
     },
     {
       "area": "Carbon Black",
-      "cat": "Version",
+      "cat": "Windows 10",
       "count": 2596
     },
     {
@@ -94,7 +94,7 @@
   "pie": [
     {
       "area": "Carbon Black",
-      "name": "洪光",
+      "name": "Total",
       "bill": 4588,
       "sale": 7924453
     },
