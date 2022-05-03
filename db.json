@@ -1,8 +1,8 @@
 [
-  { "name": "Current Version", "value": 8.1.6, "country": "Carbon Black" },
+  { "name": "Current Version", "value": '8.1.6', "country": "Carbon Black" },
   { "name": "n-1", "value": 8.0, "country": "Carbon Black" },
   { "name": "n-2", "value": 7.9, "country": "Carbon Black" },
-  { "name": ">n-3", "value": <7.8, "country": "Carbon Black" },
+  { "name": ">n-3", "value": '<7.8', "country": "Carbon Black" },
   { "name": "Current Version", "value": 45, "country": "McAfee DLP" },
   { "name": "n-1", "value": 97, "country": "McAfee DLP" },
   { "name": "n-2", "value": 69, "country": "McAfee DLP" },
@@ -19,8 +19,8 @@
   { "name": "n-1", "value": 6, "country": "McAfee ENS" },
   { "name": "n-2", "value": 34, "country": "McAfee ENS" },
   { "name": ">n-3", "value": 72, "country": "McAfee ENS" },
-  { "name": "Current Version", "value": 7.4.2.2073, "country": "Tanium Client" },
-  { "name": "n-1", "value": 7.2.314.3584, "country": "Tanium Client" },
-  { "name": "n-2", "value": 7.2.314.3476, "country": "Tanium Client" },
-  { "name": ">n-3", "value": <7.2.314.0, "country": "Tanium Client" }
+  { "name": "Current Version", "value": '7.4.2.2073', "country": "Tanium Client" },
+  { "name": "n-1", "value": '7.2.314.3584', "country": "Tanium Client" },
+  { "name": "n-2", "value": '7.2.314.3476', "country": "Tanium Client" },
+  { "name": ">n-3", "value": '<7.2.314.0', "country": "Tanium Client" }
 ]
