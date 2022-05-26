@@ -1,26 +1,1752 @@
 [
-  { "name": "Current Version", "value": "8.1.6", "country": "Carbon Black" },
-  { "name": "n-1", "value": 8.0, "country": "Carbon Black" },
-  { "name": "n-2", "value": 7.9, "country": "Carbon Black" },
-  { "name": ">n-3", "value": "7.8", "country": "Carbon Black" },
-  { "name": "Current Version", "value": "11.6.200.162", "country": "McAfee DLP" },
-  { "name": "n-1", "value": "11.6.0.762", "country": "McAfee DLP" },
-  { "name": "n-2", "value": "11.1.0.612", "country": "McAfee DLP" },
-  { "name": ">n-3", "value": "11.0.0.000", "country": "McAfee DLP" },
-  { "name": "Current Version", "value": "5.7.5.504", "country": "McAfee Agent" },
-  { "name": "n-1", "value": "5.7.3.245", "country": "McAfee Agent" },
-  { "name": "n-2", "value": "5.7.1.116", "country": "McAfee Agent" },
-  { "name": ">n-3", "value": "5.6.0.000", "country": "McAfee Agent" },
-  { "name": "Current Version", "value": "1.363.1325", "country": "Defender" },
-  { "name": "n-1", "value": "1.363.1323", "country": "Defender" },
-  { "name": "n-2", "value": "1.363.1313", "country": "Defender" },
-  { "name": ">n-3", "value": "1.362.0000", "country": "Defender" },
-  { "name": "Current Version", "value": "10.7.4.0", "country": "McAfee ENS" },
-  { "name": "n-1", "value": "10.7.3.0", "country": "McAfee ENS" },
-  { "name": "n-2", "value": "10.7.2.0", "country": "McAfee ENS" },
-  { "name": ">n-3", "value": "10.5.0.0", "country": "McAfee ENS" },
-  { "name": "Current Version", "value": "7.4.2.2073", "country": "Tanium Client" },
-  { "name": "n-1", "value": "7.2.314.3584", "country": "Tanium Client" },
-  { "name": "n-2", "value": "7.2.314.3476", "country": "Tanium Client" },
-  { "name": ">n-3", "value": "7.2.314.0", "country": "Tanium Client" }
+  {
+    "Date": "3/8/2020",
+    "Carbon Black": "0",
+    "McAfee": "0",
+    "Tanium": "0",
+    "ForcePoint": "0"
+  },
+  {
+    "Date": "3/9/2020",
+    "Carbon Black": "0",
+    "McAfee": "0",
+    "Tanium": "0",
+    "ForcePoint": "0"
+  },
+  {
+    "Date": "3/10/2020",
+    "Carbon Black": "0.1",
+    "McAfee": "0",
+    "Tanium": "0.2",
+    "ForcePoint": "0.1"
+  },
+  {
+    "Date": "3/11/2020",
+    "Carbon Black": "0.1",
+    "McAfee": "0",
+    "Tanium": "0.1",
+    "ForcePoint": "0.1"
+  },
+  {
+    "Date": "3/12/2020",
+    "Carbon Black": "0.1",
+    "McAfee": "0",
+    "Tanium": "0.1",
+    "ForcePoint": "0.1"
+  },
+  {
+    "Date": "3/13/2020",
+    "Carbon Black": "0.1",
+    "McAfee": "0.1",
+    "Tanium": "0.2",
+    "ForcePoint": "0.1"
+  },
+  {
+    "Date": "3/14/2020",
+    "Carbon Black": "0.2",
+    "McAfee": "0.1",
+    "Tanium": "0.2",
+    "ForcePoint": "0.1"
+  },
+  {
+    "Date": "3/15/2020",
+    "Carbon Black": "0.2",
+    "McAfee": "0.1",
+    "Tanium": "0.3",
+    "ForcePoint": "0.2"
+  },
+  {
+    "Date": "3/16/2020",
+    "Carbon Black": "0.3",
+    "McAfee": "0.1",
+    "Tanium": "0.4",
+    "ForcePoint": "0.5"
+  },
+  {
+    "Date": "3/17/2020",
+    "Carbon Black": "0.4",
+    "McAfee": "0.1",
+    "Tanium": "0.5",
+    "ForcePoint": "0.8"
+  },
+  {
+    "Date": "3/18/2020",
+    "Carbon Black": "0.5",
+    "McAfee": "0.1",
+    "Tanium": "0.6",
+    "ForcePoint": "0.7"
+  },
+  {
+    "Date": "3/19/2020",
+    "Carbon Black": "0.6",
+    "McAfee": "0.2",
+    "Tanium": "0.7",
+    "ForcePoint": "1.3"
+  },
+  {
+    "Date": "3/20/2020",
+    "Carbon Black": "0.8",
+    "McAfee": "0.3",
+    "Tanium": "0.7",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "3/21/2020",
+    "Carbon Black": "1.1",
+    "McAfee": "0.3",
+    "Tanium": "0.9",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "3/22/2020",
+    "Carbon Black": "1.4",
+    "McAfee": "0.4",
+    "Tanium": "1.1",
+    "ForcePoint": "1.9"
+  },
+  {
+    "Date": "3/23/2020",
+    "Carbon Black": "1.8",
+    "McAfee": "0.5",
+    "Tanium": "1.2",
+    "ForcePoint": "2.2"
+  },
+  {
+    "Date": "3/24/2020",
+    "Carbon Black": "2.1",
+    "McAfee": "0.6",
+    "Tanium": "1.3",
+    "ForcePoint": "2.2"
+  },
+  {
+    "Date": "3/25/2020",
+    "Carbon Black": "2.5",
+    "McAfee": "0.7",
+    "Tanium": "1.5",
+    "ForcePoint": "2.6"
+  },
+  {
+    "Date": "3/26/2020",
+    "Carbon Black": "3",
+    "McAfee": "0.7",
+    "Tanium": "1.9",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "3/27/2020",
+    "Carbon Black": "3.5",
+    "McAfee": "1",
+    "Tanium": "2.2",
+    "ForcePoint": "1.5"
+  },
+  {
+    "Date": "3/28/2020",
+    "Carbon Black": "4",
+    "McAfee": "1.2",
+    "Tanium": "2.2",
+    "ForcePoint": "1.7"
+  },
+  {
+    "Date": "3/29/2020",
+    "Carbon Black": "4.3",
+    "McAfee": "1.1",
+    "Tanium": "2.2",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "3/30/2020",
+    "Carbon Black": "4.8",
+    "McAfee": "1.4",
+    "Tanium": "2.6",
+    "ForcePoint": "2.6"
+  },
+  {
+    "Date": "3/31/2020",
+    "Carbon Black": "5.3",
+    "McAfee": "1.6",
+    "Tanium": "2.7",
+    "ForcePoint": "2.6"
+  },
+  {
+    "Date": "4/1/2020",
+    "Carbon Black": "5.7",
+    "McAfee": "1.9",
+    "Tanium": "3",
+    "ForcePoint": "2.7"
+  },
+  {
+    "Date": "4/2/2020",
+    "Carbon Black": "6.1",
+    "McAfee": "2",
+    "Tanium": "2.9",
+    "ForcePoint": "2.7"
+  },
+  {
+    "Date": "4/3/2020",
+    "Carbon Black": "6.6",
+    "McAfee": "2.2",
+    "Tanium": "3",
+    "ForcePoint": "3"
+  },
+  {
+    "Date": "4/4/2020",
+    "Carbon Black": "7.2",
+    "McAfee": "2.7",
+    "Tanium": "3.4",
+    "ForcePoint": "3.6"
+  },
+  {
+    "Date": "4/5/2020",
+    "Carbon Black": "7.4",
+    "McAfee": "2.8",
+    "Tanium": "3.5",
+    "ForcePoint": "3.6"
+  },
+  {
+    "Date": "4/6/2020",
+    "Carbon Black": "7.5",
+    "McAfee": "2.7",
+    "Tanium": "3.1",
+    "ForcePoint": "2.7"
+  },
+  {
+    "Date": "4/7/2020",
+    "Carbon Black": "7.7",
+    "McAfee": "2.9",
+    "Tanium": "3.2",
+    "ForcePoint": "2.5"
+  },
+  {
+    "Date": "4/8/2020",
+    "Carbon Black": "7.9",
+    "McAfee": "2.9",
+    "Tanium": "3.1",
+    "ForcePoint": "2.3"
+  },
+  {
+    "Date": "4/9/2020",
+    "Carbon Black": "8",
+    "McAfee": "2.8",
+    "Tanium": "3.1",
+    "ForcePoint": "2.3"
+  },
+  {
+    "Date": "4/10/2020",
+    "Carbon Black": "8",
+    "McAfee": "2.8",
+    "Tanium": "3",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "4/11/2020",
+    "Carbon Black": "8.3",
+    "McAfee": "2.7",
+    "Tanium": "2.8",
+    "ForcePoint": "1.3"
+  },
+  {
+    "Date": "4/12/2020",
+    "Carbon Black": "8.2",
+    "McAfee": "2.8",
+    "Tanium": "2.7",
+    "ForcePoint": "0.9"
+  },
+  {
+    "Date": "4/13/2020",
+    "Carbon Black": "8",
+    "McAfee": "2.4",
+    "Tanium": "3",
+    "ForcePoint": "1.3"
+  },
+  {
+    "Date": "4/14/2020",
+    "Carbon Black": "7.8",
+    "McAfee": "2.4",
+    "Tanium": "2.9",
+    "ForcePoint": "1.5"
+  },
+  {
+    "Date": "4/15/2020",
+    "Carbon Black": "7.5",
+    "McAfee": "2.3",
+    "Tanium": "2.8",
+    "ForcePoint": "1.3"
+  },
+  {
+    "Date": "4/16/2020",
+    "Carbon Black": "7.4",
+    "McAfee": "2.5",
+    "Tanium": "2.7",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "4/17/2020",
+    "Carbon Black": "7.5",
+    "McAfee": "2.6",
+    "Tanium": "2.7",
+    "ForcePoint": "1.9"
+  },
+  {
+    "Date": "4/18/2020",
+    "Carbon Black": "7.5",
+    "McAfee": "2.7",
+    "Tanium": "2.7",
+    "ForcePoint": "1.9"
+  },
+  {
+    "Date": "4/19/2020",
+    "Carbon Black": "7.6",
+    "McAfee": "3",
+    "Tanium": "2.7",
+    "ForcePoint": "2"
+  },
+  {
+    "Date": "4/20/2020",
+    "Carbon Black": "7.6",
+    "McAfee": "2.8",
+    "Tanium": "2.6",
+    "ForcePoint": "1.8"
+  },
+  {
+    "Date": "4/21/2020",
+    "Carbon Black": "7.4",
+    "McAfee": "3.3",
+    "Tanium": "2.6",
+    "ForcePoint": "1.7"
+  },
+  {
+    "Date": "4/22/2020",
+    "Carbon Black": "7.3",
+    "McAfee": "3.4",
+    "Tanium": "2.4",
+    "ForcePoint": "1.7"
+  },
+  {
+    "Date": "4/23/2020",
+    "Carbon Black": "7.3",
+    "McAfee": "3.7",
+    "Tanium": "2.4",
+    "ForcePoint": "1.1"
+  },
+  {
+    "Date": "4/24/2020",
+    "Carbon Black": "7.6",
+    "McAfee": "3.8",
+    "Tanium": "2.4",
+    "ForcePoint": "1.3"
+  },
+  {
+    "Date": "4/25/2020",
+    "Carbon Black": "8",
+    "McAfee": "4",
+    "Tanium": "2.2",
+    "ForcePoint": "1.4"
+  },
+  {
+    "Date": "4/26/2020",
+    "Carbon Black": "8",
+    "McAfee": "4.1",
+    "Tanium": "2.4",
+    "ForcePoint": "1.9"
+  },
+  {
+    "Date": "4/27/2020",
+    "Carbon Black": "7.9",
+    "McAfee": "3.8",
+    "Tanium": "2.2",
+    "ForcePoint": "1.7"
+  },
+  {
+    "Date": "4/28/2020",
+    "Carbon Black": "7.7",
+    "McAfee": "3.6",
+    "Tanium": "2.2",
+    "ForcePoint": "1.4"
+  },
+  {
+    "Date": "4/29/2020",
+    "Carbon Black": "7.4",
+    "McAfee": "3.4",
+    "Tanium": "2.3",
+    "ForcePoint": "1.5"
+  },
+  {
+    "Date": "4/30/2020",
+    "Carbon Black": "7.3",
+    "McAfee": "3.6",
+    "Tanium": "2.2",
+    "ForcePoint": "1.8"
+  },
+  {
+    "Date": "5/1/2020",
+    "Carbon Black": "7.2",
+    "McAfee": "3.5",
+    "Tanium": "2.1",
+    "ForcePoint": "1.6"
+  },
+  {
+    "Date": "5/2/2020",
+    "Carbon Black": "7.2",
+    "McAfee": "3.7",
+    "Tanium": "2.2",
+    "ForcePoint": "1.5"
+  },
+  {
+    "Date": "5/3/2020",
+    "Carbon Black": "7.4",
+    "McAfee": "3.8",
+    "Tanium": "2.2",
+    "ForcePoint": "0.9"
+  },
+  {
+    "Date": "5/4/2020",
+    "Carbon Black": "7.2",
+    "McAfee": "3.7",
+    "Tanium": "2.2",
+    "ForcePoint": "0.9"
+  },
+  {
+    "Date": "5/5/2020",
+    "Carbon Black": "7.1",
+    "McAfee": "3.6",
+    "Tanium": "2.3",
+    "ForcePoint": "1"
+  },
+  {
+    "Date": "5/6/2020",
+    "Carbon Black": "6.9",
+    "McAfee": "3.7",
+    "Tanium": "2.3",
+    "ForcePoint": "1"
+  },
+  {
+    "Date": "5/7/2020",
+    "Carbon Black": "6.6",
+    "McAfee": "3.8",
+    "Tanium": "2.4",
+    "ForcePoint": "0.7"
+  },
+  {
+    "Date": "5/8/2020",
+    "Carbon Black": "6.5",
+    "McAfee": "3.8",
+    "Tanium": "2.5",
+    "ForcePoint": "1"
+  },
+  {
+    "Date": "5/9/2020",
+    "Carbon Black": "6.5",
+    "McAfee": "4.1",
+    "Tanium": "2.4",
+    "ForcePoint": "1"
+  },
+  {
+    "Date": "5/10/2020",
+    "Carbon Black": "6.4",
+    "McAfee": "4.4",
+    "Tanium": "2.5",
+    "ForcePoint": "1.1"
+  },
+  {
+    "Date": "5/11/2020",
+    "Carbon Black": "6.3",
+    "McAfee": "4.4",
+    "Tanium": "2.3",
+    "ForcePoint": "1.2"
+  },
+  {
+    "Date": "5/12/2020",
+    "Carbon Black": "6.2",
+    "McAfee": "3.9",
+    "Tanium": "2.2",
+    "ForcePoint": "1.4"
+  },
+  {
+    "Date": "5/13/2020",
+    "Carbon Black": "5.9",
+    "McAfee": "3.9",
+    "Tanium": "2.2",
+    "ForcePoint": "1.6"
+  },
+  {
+    "Date": "5/14/2020",
+    "Carbon Black": "5.9",
+    "McAfee": "4",
+    "Tanium": "2",
+    "ForcePoint": "1.6"
+  },
+  {
+    "Date": "5/15/2020",
+    "Carbon Black": "5.9",
+    "McAfee": "3.8",
+    "Tanium": "2.1",
+    "ForcePoint": "1.4"
+  },
+  {
+    "Date": "5/16/2020",
+    "Carbon Black": "6",
+    "McAfee": "3.8",
+    "Tanium": "2.1",
+    "ForcePoint": "1.7"
+  },
+  {
+    "Date": "5/17/2020",
+    "Carbon Black": "6.1",
+    "McAfee": "4",
+    "Tanium": "2.1",
+    "ForcePoint": "2.3"
+  },
+  {
+    "Date": "5/18/2020",
+    "Carbon Black": "6",
+    "McAfee": "4.1",
+    "Tanium": "2.3",
+    "ForcePoint": "3.2"
+  },
+  {
+    "Date": "5/19/2020",
+    "Carbon Black": "6",
+    "McAfee": "4",
+    "Tanium": "2.4",
+    "ForcePoint": "3.6"
+  },
+  {
+    "Date": "5/20/2020",
+    "Carbon Black": "5.8",
+    "McAfee": "4",
+    "Tanium": "2.4",
+    "ForcePoint": "3.7"
+  },
+  {
+    "Date": "5/21/2020",
+    "Carbon Black": "5.8",
+    "McAfee": "4.2",
+    "Tanium": "2.5",
+    "ForcePoint": "3.9"
+  },
+  {
+    "Date": "5/22/2020",
+    "Carbon Black": "5.8",
+    "McAfee": "4.3",
+    "Tanium": "2.9",
+    "ForcePoint": "4.2"
+  },
+  {
+    "Date": "5/23/2020",
+    "Carbon Black": "5.9",
+    "McAfee": "4.4",
+    "Tanium": "3",
+    "ForcePoint": "4.7"
+  },
+  {
+    "Date": "5/24/2020",
+    "Carbon Black": "5.8",
+    "McAfee": "4.6",
+    "Tanium": "3.1",
+    "ForcePoint": "5.1"
+  },
+  {
+    "Date": "5/25/2020",
+    "Carbon Black": "5.8",
+    "McAfee": "4.7",
+    "Tanium": "3",
+    "ForcePoint": "4.9"
+  },
+  {
+    "Date": "5/26/2020",
+    "Carbon Black": "5.6",
+    "McAfee": "4.7",
+    "Tanium": "3.1",
+    "ForcePoint": "5"
+  },
+  {
+    "Date": "5/27/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "4.7",
+    "Tanium": "3.2",
+    "ForcePoint": "4.8"
+  },
+  {
+    "Date": "5/28/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "4.9",
+    "Tanium": "3.3",
+    "ForcePoint": "5"
+  },
+  {
+    "Date": "5/29/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "4.9",
+    "Tanium": "2.9",
+    "ForcePoint": "4.8"
+  },
+  {
+    "Date": "5/30/2020",
+    "Carbon Black": "5.4",
+    "McAfee": "5.3",
+    "Tanium": "3",
+    "ForcePoint": "4.6"
+  },
+  {
+    "Date": "5/31/2020",
+    "Carbon Black": "5.5",
+    "McAfee": "5.9",
+    "Tanium": "3",
+    "ForcePoint": "4.4"
+  },
+  {
+    "Date": "6/1/2020",
+    "Carbon Black": "5.7",
+    "McAfee": "6",
+    "Tanium": "3.2",
+    "ForcePoint": "4.6"
+  },
+  {
+    "Date": "6/2/2020",
+    "Carbon Black": "5.7",
+    "McAfee": "6.1",
+    "Tanium": "3",
+    "ForcePoint": "4.8"
+  },
+  {
+    "Date": "6/3/2020",
+    "Carbon Black": "5.6",
+    "McAfee": "5.9",
+    "Tanium": "2.9",
+    "ForcePoint": "4.9"
+  },
+  {
+    "Date": "6/4/2020",
+    "Carbon Black": "5.5",
+    "McAfee": "5.9",
+    "Tanium": "3",
+    "ForcePoint": "5.4"
+  },
+  {
+    "Date": "6/5/2020",
+    "Carbon Black": "5.5",
+    "McAfee": "5.9",
+    "Tanium": "3.2",
+    "ForcePoint": "5.4"
+  },
+  {
+    "Date": "6/6/2020",
+    "Carbon Black": "5.5",
+    "McAfee": "5.7",
+    "Tanium": "3.1",
+    "ForcePoint": "5.7"
+  },
+  {
+    "Date": "6/7/2020",
+    "Carbon Black": "5.4",
+    "McAfee": "5.9",
+    "Tanium": "3.1",
+    "ForcePoint": "6"
+  },
+  {
+    "Date": "6/8/2020",
+    "Carbon Black": "5.3",
+    "McAfee": "5.9",
+    "Tanium": "3.2",
+    "ForcePoint": "6"
+  },
+  {
+    "Date": "6/9/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "5.9",
+    "Tanium": "3.4",
+    "ForcePoint": "7.1"
+  },
+  {
+    "Date": "6/10/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "6.1",
+    "Tanium": "3.5",
+    "ForcePoint": "7.3"
+  },
+  {
+    "Date": "6/11/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "6.1",
+    "Tanium": "3.5",
+    "ForcePoint": "7.2"
+  },
+  {
+    "Date": "6/12/2020",
+    "Carbon Black": "5.2",
+    "McAfee": "5.9",
+    "Tanium": "3.6",
+    "ForcePoint": "7.6"
+  },
+  {
+    "Date": "6/13/2020",
+    "Carbon Black": "5.5",
+    "McAfee": "6.2",
+    "Tanium": "3.4",
+    "ForcePoint": "8"
+  },
+  {
+    "Date": "6/14/2020",
+    "Carbon Black": "5.6",
+    "McAfee": "6.5",
+    "Tanium": "3.6",
+    "ForcePoint": "8.1"
+  },
+  {
+    "Date": "6/15/2020",
+    "Carbon Black": "5.7",
+    "McAfee": "6.7",
+    "Tanium": "3.5",
+    "ForcePoint": "10.4"
+  },
+  {
+    "Date": "6/16/2020",
+    "Carbon Black": "5.8",
+    "McAfee": "6.4",
+    "Tanium": "3.5",
+    "ForcePoint": "10.2"
+  },
+  {
+    "Date": "6/17/2020",
+    "Carbon Black": "5.9",
+    "McAfee": "6.6",
+    "Tanium": "3.7",
+    "ForcePoint": "9.8"
+  },
+  {
+    "Date": "6/18/2020",
+    "Carbon Black": "6.1",
+    "McAfee": "7.1",
+    "Tanium": "3.9",
+    "ForcePoint": "9.3"
+  },
+  {
+    "Date": "6/19/2020",
+    "Carbon Black": "6.3",
+    "McAfee": "7.3",
+    "Tanium": "3.9",
+    "ForcePoint": "11.2"
+  },
+  {
+    "Date": "6/20/2020",
+    "Carbon Black": "6.8",
+    "McAfee": "7.6",
+    "Tanium": "4.2",
+    "ForcePoint": "11.3"
+  },
+  {
+    "Date": "6/21/2020",
+    "Carbon Black": "7.2",
+    "McAfee": "8.3",
+    "Tanium": "4",
+    "ForcePoint": "11.4"
+  },
+  {
+    "Date": "6/22/2020",
+    "Carbon Black": "7.4",
+    "McAfee": "9.1",
+    "Tanium": "4.7",
+    "ForcePoint": "9.9"
+  },
+  {
+    "Date": "6/23/2020",
+    "Carbon Black": "7.8",
+    "McAfee": "9.7",
+    "Tanium": "5.4",
+    "ForcePoint": "10.2"
+  },
+  {
+    "Date": "6/24/2020",
+    "Carbon Black": "8.3",
+    "McAfee": "10.8",
+    "Tanium": "5.8",
+    "ForcePoint": "11.7"
+  },
+  {
+    "Date": "6/25/2020",
+    "Carbon Black": "8.7",
+    "McAfee": "11.2",
+    "Tanium": "6.2",
+    "ForcePoint": "14.5"
+  },
+  {
+    "Date": "6/26/2020",
+    "Carbon Black": "9.3",
+    "McAfee": "11.6",
+    "Tanium": "6.7",
+    "ForcePoint": "15.5"
+  },
+  {
+    "Date": "6/27/2020",
+    "Carbon Black": "9.9",
+    "McAfee": "12.1",
+    "Tanium": "6.4",
+    "ForcePoint": "15.7"
+  },
+  {
+    "Date": "6/28/2020",
+    "Carbon Black": "10.5",
+    "McAfee": "12.3",
+    "Tanium": "7.2",
+    "ForcePoint": "14.4"
+  },
+  {
+    "Date": "6/29/2020",
+    "Carbon Black": "10.8",
+    "McAfee": "12.4",
+    "Tanium": "7.1",
+    "ForcePoint": "14.2"
+  },
+  {
+    "Date": "6/30/2020",
+    "Carbon Black": "11.1",
+    "McAfee": "12.1",
+    "Tanium": "7.5",
+    "ForcePoint": "12.7"
+  },
+  {
+    "Date": "7/1/2020",
+    "Carbon Black": "11.6",
+    "McAfee": "13.8",
+    "Tanium": "8.2",
+    "ForcePoint": "13.9"
+  },
+  {
+    "Date": "7/2/2020",
+    "Carbon Black": "12",
+    "McAfee": "14.7",
+    "Tanium": "8.8",
+    "ForcePoint": "13.8"
+  },
+  {
+    "Date": "7/3/2020",
+    "Carbon Black": "12.5",
+    "McAfee": "15.5",
+    "Tanium": "9.4",
+    "ForcePoint": "13.4"
+  },
+  {
+    "Date": "7/4/2020",
+    "Carbon Black": "13",
+    "McAfee": "16.1",
+    "Tanium": "10.2",
+    "ForcePoint": "15.7"
+  },
+  {
+    "Date": "7/5/2020",
+    "Carbon Black": "13.3",
+    "McAfee": "16.2",
+    "Tanium": "10.3",
+    "ForcePoint": "17"
+  },
+  {
+    "Date": "7/6/2020",
+    "Carbon Black": "13",
+    "McAfee": "18.1",
+    "Tanium": "11.3",
+    "ForcePoint": "16.4"
+  },
+  {
+    "Date": "7/7/2020",
+    "Carbon Black": "13",
+    "McAfee": "16.7",
+    "Tanium": "11",
+    "ForcePoint": "17.4"
+  },
+  {
+    "Date": "7/8/2020",
+    "Carbon Black": "13.4",
+    "McAfee": "18.3",
+    "Tanium": "10.4",
+    "ForcePoint": "18.7"
+  },
+  {
+    "Date": "7/9/2020",
+    "Carbon Black": "13.7",
+    "McAfee": "17.9",
+    "Tanium": "10.1",
+    "ForcePoint": "19.3"
+  },
+  {
+    "Date": "7/10/2020",
+    "Carbon Black": "14.2",
+    "McAfee": "18.4",
+    "Tanium": "9.9",
+    "ForcePoint": "18.3"
+  },
+  {
+    "Date": "7/11/2020",
+    "Carbon Black": "15",
+    "McAfee": "19.4",
+    "Tanium": "10.4",
+    "ForcePoint": "17.9"
+  },
+  {
+    "Date": "7/12/2020",
+    "Carbon Black": "15.8",
+    "McAfee": "18.2",
+    "Tanium": "10.3",
+    "ForcePoint": "19.1"
+  },
+  {
+    "Date": "7/13/2020",
+    "Carbon Black": "16.1",
+    "McAfee": "19.1",
+    "Tanium": "10.5",
+    "ForcePoint": "18.6"
+  },
+  {
+    "Date": "7/14/2020",
+    "Carbon Black": "16.1",
+    "McAfee": "17.5",
+    "Tanium": "11.4",
+    "ForcePoint": "19.6"
+  },
+  {
+    "Date": "7/15/2020",
+    "Carbon Black": "16.4",
+    "McAfee": "19",
+    "Tanium": "12.1",
+    "ForcePoint": "18.3"
+  },
+  {
+    "Date": "7/16/2020",
+    "Carbon Black": "16.5",
+    "McAfee": "19.2",
+    "Tanium": "12.4",
+    "ForcePoint": "20.8"
+  },
+  {
+    "Date": "7/17/2020",
+    "Carbon Black": "17.1",
+    "McAfee": "20",
+    "Tanium": "12.5",
+    "ForcePoint": "22.7"
+  },
+  {
+    "Date": "7/18/2020",
+    "Carbon Black": "17.3",
+    "McAfee": "20.2",
+    "Tanium": "12.5",
+    "ForcePoint": "21.2"
+  },
+  {
+    "Date": "7/19/2020",
+    "Carbon Black": "17.6",
+    "McAfee": "20.6",
+    "Tanium": "12.7",
+    "ForcePoint": "24.7"
+  },
+  {
+    "Date": "7/20/2020",
+    "Carbon Black": "17.3",
+    "McAfee": "20.4",
+    "Tanium": "12.5",
+    "ForcePoint": "27.3"
+  },
+  {
+    "Date": "7/21/2020",
+    "Carbon Black": "17.2",
+    "McAfee": "19.7",
+    "Tanium": "12.2",
+    "ForcePoint": "27.3"
+  },
+  {
+    "Date": "7/22/2020",
+    "Carbon Black": "17.2",
+    "McAfee": "21.3",
+    "Tanium": "12.9",
+    "ForcePoint": "27.8"
+  },
+  {
+    "Date": "7/23/2020",
+    "Carbon Black": "16.9",
+    "McAfee": "22.1",
+    "Tanium": "13.3",
+    "ForcePoint": "22.8"
+  },
+  {
+    "Date": "7/24/2020",
+    "Carbon Black": "17.4",
+    "McAfee": "22.2",
+    "Tanium": "14.2",
+    "ForcePoint": "22.4"
+  },
+  {
+    "Date": "7/25/2020",
+    "Carbon Black": "17.4",
+    "McAfee": "22.5",
+    "Tanium": "13.8",
+    "ForcePoint": "22.3"
+  },
+  {
+    "Date": "7/26/2020",
+    "Carbon Black": "17.6",
+    "McAfee": "23",
+    "Tanium": "13.9",
+    "ForcePoint": "19.6"
+  },
+  {
+    "Date": "7/27/2020",
+    "Carbon Black": "17.2",
+    "McAfee": "22.2",
+    "Tanium": "13.3",
+    "ForcePoint": "18.3"
+  },
+  {
+    "Date": "7/28/2020",
+    "Carbon Black": "16.7",
+    "McAfee": "19.7",
+    "Tanium": "13.5",
+    "ForcePoint": "17.8"
+  },
+  {
+    "Date": "7/29/2020",
+    "Carbon Black": "16.4",
+    "McAfee": "18.4",
+    "Tanium": "12.9",
+    "ForcePoint": "17.5"
+  },
+  {
+    "Date": "7/30/2020",
+    "Carbon Black": "16.2",
+    "McAfee": "18.6",
+    "Tanium": "13.1",
+    "ForcePoint": "19.8"
+  },
+  {
+    "Date": "7/31/2020",
+    "Carbon Black": "16.3",
+    "McAfee": "17.9",
+    "Tanium": "12.4",
+    "ForcePoint": "19.1"
+  },
+  {
+    "Date": "8/1/2020",
+    "Carbon Black": "16.3",
+    "McAfee": "17.2",
+    "Tanium": "13.5",
+    "ForcePoint": "21.1"
+  },
+  {
+    "Date": "8/2/2020",
+    "Carbon Black": "15.9",
+    "McAfee": "18",
+    "Tanium": "13.6",
+    "ForcePoint": "18.8"
+  },
+  {
+    "Date": "8/3/2020",
+    "Carbon Black": "15.5",
+    "McAfee": "17.9",
+    "Tanium": "14",
+    "ForcePoint": "18.3"
+  },
+  {
+    "Date": "8/4/2020",
+    "Carbon Black": "15",
+    "McAfee": "16.4",
+    "Tanium": "13.6",
+    "ForcePoint": "18.3"
+  },
+  {
+    "Date": "8/5/2020",
+    "Carbon Black": "14.3",
+    "McAfee": "14.5",
+    "Tanium": "13.3",
+    "ForcePoint": "15.5"
+  },
+  {
+    "Date": "8/6/2020",
+    "Carbon Black": "13.7",
+    "McAfee": "13.5",
+    "Tanium": "13.3",
+    "ForcePoint": "15.2"
+  },
+  {
+    "Date": "8/7/2020",
+    "Carbon Black": "13.7",
+    "McAfee": "14.2",
+    "Tanium": "13.6",
+    "ForcePoint": "13.8"
+  },
+  {
+    "Date": "8/8/2020",
+    "Carbon Black": "14",
+    "McAfee": "13.6",
+    "Tanium": "13.3",
+    "ForcePoint": "12.1"
+  },
+  {
+    "Date": "8/9/2020",
+    "Carbon Black": "14",
+    "McAfee": "14.6",
+    "Tanium": "13.6",
+    "ForcePoint": "12.6"
+  },
+  {
+    "Date": "8/10/2020",
+    "Carbon Black": "13.6",
+    "McAfee": "15.8",
+    "Tanium": "14.7",
+    "ForcePoint": "12.6"
+  },
+  {
+    "Date": "8/11/2020",
+    "Carbon Black": "13.7",
+    "McAfee": "18.4",
+    "Tanium": "16.5",
+    "ForcePoint": "15.3"
+  },
+  {
+    "Date": "8/12/2020",
+    "Carbon Black": "13.8",
+    "McAfee": "20.8",
+    "Tanium": "17.5",
+    "ForcePoint": "21.2"
+  },
+  {
+    "Date": "8/13/2020",
+    "Carbon Black": "13.4",
+    "McAfee": "20.3",
+    "Tanium": "18",
+    "ForcePoint": "23.1"
+  },
+  {
+    "Date": "8/14/2020",
+    "Carbon Black": "13.6",
+    "McAfee": "20.5",
+    "Tanium": "19.1",
+    "ForcePoint": "23.6"
+  },
+  {
+    "Date": "8/15/2020",
+    "Carbon Black": "13.8",
+    "McAfee": "22.1",
+    "Tanium": "19.8",
+    "ForcePoint": "23.6"
+  },
+  {
+    "Date": "8/16/2020",
+    "Carbon Black": "13.9",
+    "McAfee": "22.1",
+    "Tanium": "20",
+    "ForcePoint": "23.3"
+  },
+  {
+    "Date": "8/17/2020",
+    "Carbon Black": "13.1",
+    "McAfee": "19.9",
+    "Tanium": "19",
+    "ForcePoint": "22.8"
+  },
+  {
+    "Date": "8/18/2020",
+    "Carbon Black": "12.4",
+    "McAfee": "17.3",
+    "Tanium": "18.3",
+    "ForcePoint": "19.6"
+  },
+  {
+    "Date": "8/19/2020",
+    "Carbon Black": "12.1",
+    "McAfee": "16.9",
+    "Tanium": "18",
+    "ForcePoint": "13.9"
+  },
+  {
+    "Date": "8/20/2020",
+    "Carbon Black": "11.5",
+    "McAfee": "16.2",
+    "Tanium": "17.4",
+    "ForcePoint": "10.2"
+  },
+  {
+    "Date": "8/21/2020",
+    "Carbon Black": "11.1",
+    "McAfee": "13.6",
+    "Tanium": "16.6",
+    "ForcePoint": "9.6"
+  },
+  {
+    "Date": "8/22/2020",
+    "Carbon Black": "11.2",
+    "McAfee": "13.1",
+    "Tanium": "15.5",
+    "ForcePoint": "7.9"
+  },
+  {
+    "Date": "8/23/2020",
+    "Carbon Black": "11.2",
+    "McAfee": "13.2",
+    "Tanium": "15.1",
+    "ForcePoint": "8.9"
+  },
+  {
+    "Date": "8/24/2020",
+    "Carbon Black": "11",
+    "McAfee": "13.3",
+    "Tanium": "14.5",
+    "ForcePoint": "8.8"
+  },
+  {
+    "Date": "8/25/2020",
+    "Carbon Black": "10.6",
+    "McAfee": "12.7",
+    "Tanium": "14.7",
+    "ForcePoint": "8.3"
+  },
+  {
+    "Date": "8/26/2020",
+    "Carbon Black": "10.6",
+    "McAfee": "12.7",
+    "Tanium": "13.8",
+    "ForcePoint": "9.5"
+  },
+  {
+    "Date": "8/27/2020",
+    "Carbon Black": "10.5",
+    "McAfee": "12.3",
+    "Tanium": "13.5",
+    "ForcePoint": "11.4"
+  },
+  {
+    "Date": "8/28/2020",
+    "Carbon Black": "10.5",
+    "McAfee": "11.9",
+    "Tanium": "12.5",
+    "ForcePoint": "10.8"
+  },
+  {
+    "Date": "8/29/2020",
+    "Carbon Black": "10.8",
+    "McAfee": "11.2",
+    "Tanium": "12.4",
+    "ForcePoint": "12.9"
+  },
+  {
+    "Date": "8/30/2020",
+    "Carbon Black": "11",
+    "McAfee": "11.6",
+    "Tanium": "12",
+    "ForcePoint": "12"
+  },
+  {
+    "Date": "8/31/2020",
+    "Carbon Black": "10.8",
+    "McAfee": "11.5",
+    "Tanium": "12.7",
+    "ForcePoint": "12.6"
+  },
+  {
+    "Date": "9/1/2020",
+    "Carbon Black": "10.7",
+    "McAfee": "10.6",
+    "Tanium": "11.3",
+    "ForcePoint": "13.6"
+  },
+  {
+    "Date": "9/2/2020",
+    "Carbon Black": "10.2",
+    "McAfee": "10.6",
+    "Tanium": "11.9",
+    "ForcePoint": "13.1"
+  },
+  {
+    "Date": "9/3/2020",
+    "Carbon Black": "10.1",
+    "McAfee": "10.7",
+    "Tanium": "11.9",
+    "ForcePoint": "13.1"
+  },
+  {
+    "Date": "9/4/2020",
+    "Carbon Black": "10.4",
+    "McAfee": "10.6",
+    "Tanium": "11.9",
+    "ForcePoint": "13"
+  },
+  {
+    "Date": "9/5/2020",
+    "Carbon Black": "10.6",
+    "McAfee": "10.1",
+    "Tanium": "12.1",
+    "ForcePoint": "11"
+  },
+  {
+    "Date": "9/6/2020",
+    "Carbon Black": "10.7",
+    "McAfee": "10.4",
+    "Tanium": "12.4",
+    "ForcePoint": "11.3"
+  },
+  {
+    "Date": "9/7/2020",
+    "Carbon Black": "10.1",
+    "McAfee": "10.2",
+    "Tanium": "11.3",
+    "ForcePoint": "10.9"
+  },
+  {
+    "Date": "9/8/2020",
+    "Carbon Black": "9.8",
+    "McAfee": "9.6",
+    "Tanium": "10.9",
+    "ForcePoint": "9.2"
+  },
+  {
+    "Date": "9/9/2020",
+    "Carbon Black": "9.2",
+    "McAfee": "8.1",
+    "Tanium": "10.3",
+    "ForcePoint": "8.4"
+  },
+  {
+    "Date": "9/10/2020",
+    "Carbon Black": "8.6",
+    "McAfee": "7.6",
+    "Tanium": "9.2",
+    "ForcePoint": "6.9"
+  },
+  {
+    "Date": "9/11/2020",
+    "Carbon Black": "8.5",
+    "McAfee": "7",
+    "Tanium": "9.2",
+    "ForcePoint": "7.5"
+  },
+  {
+    "Date": "9/12/2020",
+    "Carbon Black": "8.9",
+    "McAfee": "6.7",
+    "Tanium": "8.9",
+    "ForcePoint": "8"
+  },
+  {
+    "Date": "9/13/2020",
+    "Carbon Black": "9.2",
+    "McAfee": "7.3",
+    "Tanium": "8.8",
+    "ForcePoint": "7.1"
+  },
+  {
+    "Date": "9/14/2020",
+    "Carbon Black": "9.7",
+    "McAfee": "7.4",
+    "Tanium": "8.8",
+    "ForcePoint": "6.5"
+  },
+  {
+    "Date": "9/15/2020",
+    "Carbon Black": "9.9",
+    "McAfee": "7.6",
+    "Tanium": "8.8",
+    "ForcePoint": "6.3"
+  },
+  {
+    "Date": "9/16/2020",
+    "Carbon Black": "10",
+    "McAfee": "7.5",
+    "Tanium": "8.2",
+    "ForcePoint": "7.2"
+  },
+  {
+    "Date": "9/17/2020",
+    "Carbon Black": "9.9",
+    "McAfee": "7.4",
+    "Tanium": "8.4",
+    "ForcePoint": "6.5"
+  },
+  {
+    "Date": "9/18/2020",
+    "Carbon Black": "10.2",
+    "McAfee": "7.2",
+    "Tanium": "8.4",
+    "ForcePoint": "7.1"
+  },
+  {
+    "Date": "9/19/2020",
+    "Carbon Black": "10.6",
+    "McAfee": "7.1",
+    "Tanium": "7.9",
+    "ForcePoint": "7"
+  },
+  {
+    "Date": "9/20/2020",
+    "Carbon Black": "10.7",
+    "McAfee": "7.6",
+    "Tanium": "7.9",
+    "ForcePoint": "7.1"
+  },
+  {
+    "Date": "9/21/2020",
+    "Carbon Black": "10.9",
+    "McAfee": "8",
+    "Tanium": "8.1",
+    "ForcePoint": "8"
+  },
+  {
+    "Date": "9/22/2020",
+    "Carbon Black": "11.3",
+    "McAfee": "7.9",
+    "Tanium": "8",
+    "ForcePoint": "8"
+  },
+  {
+    "Date": "9/23/2020",
+    "Carbon Black": "11.1",
+    "McAfee": "7.9",
+    "Tanium": "8.1",
+    "ForcePoint": "7.6"
+  },
+  {
+    "Date": "9/24/2020",
+    "Carbon Black": "10.9",
+    "McAfee": "7.7",
+    "Tanium": "8.2",
+    "ForcePoint": "8.5"
+  },
+  {
+    "Date": "9/25/2020",
+    "Carbon Black": "11.4",
+    "McAfee": "7.4",
+    "Tanium": "7.8",
+    "ForcePoint": "7.8"
+  },
+  {
+    "Date": "9/26/2020",
+    "Carbon Black": "11.9",
+    "McAfee": "7.4",
+    "Tanium": "7.9",
+    "ForcePoint": "8"
+  },
+  {
+    "Date": "9/27/2020",
+    "Carbon Black": "11.7",
+    "McAfee": "7.6",
+    "Tanium": "7.6",
+    "ForcePoint": "7.9"
+  },
+  {
+    "Date": "9/28/2020",
+    "Carbon Black": "11.1",
+    "McAfee": "7.8",
+    "Tanium": "7.2",
+    "ForcePoint": "6.5"
+  },
+  {
+    "Date": "9/29/2020",
+    "Carbon Black": "11",
+    "McAfee": "7.4",
+    "Tanium": "7.1",
+    "ForcePoint": "6.4"
+  },
+  {
+    "Date": "9/30/2020",
+    "Carbon Black": "11.1",
+    "McAfee": "7.4",
+    "Tanium": "7.1",
+    "ForcePoint": "5.7"
+  },
+  {
+    "Date": "10/1/2020",
+    "Carbon Black": "10.7",
+    "McAfee": "7.3",
+    "Tanium": "6.9",
+    "ForcePoint": "4.4"
+  },
+  {
+    "Date": "10/2/2020",
+    "Carbon Black": "10.7",
+    "McAfee": "7.1",
+    "Tanium": "6.9",
+    "ForcePoint": "3.9"
+  },
+  {
+    "Date": "10/3/2020",
+    "Carbon Black": "11.4",
+    "McAfee": "6.4",
+    "Tanium": "6.8",
+    "ForcePoint": "3.3"
+  },
+  {
+    "Date": "10/4/2020",
+    "Carbon Black": "11.5",
+    "McAfee": "6.9",
+    "Tanium": "6.9",
+    "ForcePoint": "3"
+  },
+  {
+    "Date": "10/5/2020",
+    "Carbon Black": "11.6",
+    "McAfee": "7.2",
+    "Tanium": "7",
+    "ForcePoint": "4"
+  },
+  {
+    "Date": "10/6/2020",
+    "Carbon Black": "11.3",
+    "McAfee": "6.6",
+    "Tanium": "6.8",
+    "ForcePoint": "5.1"
+  },
+  {
+    "Date": "10/7/2020",
+    "Carbon Black": "11.5",
+    "McAfee": "6.5",
+    "Tanium": "6.7",
+    "ForcePoint": "5.1"
+  },
+  {
+    "Date": "10/8/2020",
+    "Carbon Black": "11.8",
+    "McAfee": "6.5",
+    "Tanium": "6.7",
+    "ForcePoint": "6"
+  },
+  {
+    "Date": "10/9/2020",
+    "Carbon Black": "12.1",
+    "McAfee": "7.1",
+    "Tanium": "6.5",
+    "ForcePoint": "6.3"
+  },
+  {
+    "Date": "10/10/2020",
+    "Carbon Black": "12.9",
+    "McAfee": "7.1",
+    "Tanium": "6.5",
+    "ForcePoint": "5.9"
+  },
+  {
+    "Date": "10/11/2020",
+    "Carbon Black": "13.3",
+    "McAfee": "7.3",
+    "Tanium": "6.5",
+    "ForcePoint": "6.9"
+  },
+  {
+    "Date": "10/12/2020",
+    "Carbon Black": "13.5",
+    "McAfee": "8",
+    "Tanium": "6.3",
+    "ForcePoint": "7.1"
+  },
+  {
+    "Date": "10/13/2020",
+    "Carbon Black": "13.3",
+    "McAfee": "7.9",
+    "Tanium": "6.7",
+    "ForcePoint": "6.4"
+  },
+  {
+    "Date": "10/14/2020",
+    "Carbon Black": "13.4",
+    "McAfee": "7.5",
+    "Tanium": "6.6",
+    "ForcePoint": "6.3"
+  },
+  {
+    "Date": "10/15/2020",
+    "Carbon Black": "13.7",
+    "McAfee": "7.3",
+    "Tanium": "6.4",
+    "ForcePoint": "6.3"
+  },
+  {
+    "Date": "10/16/2020",
+    "Carbon Black": "14.1",
+    "McAfee": "6.9",
+    "Tanium": "6.3",
+    "ForcePoint": "6.3"
+  },
+  {
+    "Date": "10/17/2020",
+    "Carbon Black": "14.6",
+    "McAfee": "6.6",
+    "Tanium": "6",
+    "ForcePoint": "7.1"
+  },
+  {
+    "Date": "10/18/2020",
+    "Carbon Black": "14.9",
+    "McAfee": "6.4",
+    "Tanium": "6.3",
+    "ForcePoint": "6.7"
+  },
+  {
+    "Date": "10/19/2020",
+    "Carbon Black": "15.2",
+    "McAfee": "6.8",
+    "Tanium": "6.6",
+    "ForcePoint": "6.3"
+  },
+  {
+    "Date": "10/20/2020",
+    "Carbon Black": "15.4",
+    "McAfee": "7.1",
+    "Tanium": "6.7",
+    "ForcePoint": "5.8"
+  },
+  {
+    "Date": "10/21/2020",
+    "Carbon Black": "15.3",
+    "McAfee": "7.2",
+    "Tanium": "7.1",
+    "ForcePoint": "5.6"
+  },
+  {
+    "Date": "10/22/2020",
+    "Carbon Black": "15.5",
+    "McAfee": "7.1",
+    "Tanium": "7.1",
+    "ForcePoint": "4.5"
+  },
+  {
+    "Date": "10/23/2020",
+    "Carbon Black": "16.6",
+    "McAfee": "8.3",
+    "Tanium": "7.6",
+    "ForcePoint": "4.3"
+  },
+  {
+    "Date": "10/24/2020",
+    "Carbon Black": "18.1",
+    "McAfee": "9.5",
+    "Tanium": "7.9",
+    "ForcePoint": "4.2"
+  },
+  {
+    "Date": "10/25/2020",
+    "Carbon Black": "18.5",
+    "McAfee": "10.1",
+    "Tanium": "7.6",
+    "ForcePoint": "4"
+  },
+  {
+    "Date": "10/26/2020",
+    "Carbon Black": "18.5",
+    "McAfee": "10",
+    "Tanium": "7.6",
+    "ForcePoint": "3.8"
+  },
+  {
+    "Date": "10/27/2020",
+    "Carbon Black": "19.1",
+    "McAfee": "9.8",
+    "Tanium": "7.7",
+    "ForcePoint": "3.6"
+  },
+  {
+    "Date": "10/28/2020",
+    "Carbon Black": "19.3",
+    "McAfee": "10.4",
+    "Tanium": "7.6",
+    "ForcePoint": "4"
+  },
+  {
+    "Date": "10/29/2020",
+    "Carbon Black": "19.6",
+    "McAfee": "9.7",
+    "Tanium": "7.9",
+    "ForcePoint": "4.4"
+  },
+  {
+    "Date": "10/30/2020",
+    "Carbon Black": "20.2",
+    "McAfee": "8.9",
+    "Tanium": "7.9",
+    "ForcePoint": "4.3"
+  },
+  {
+    "Date": "10/31/2020",
+    "Carbon Black": "21.3",
+    "McAfee": "8.9",
+    "Tanium": "7.9",
+    "ForcePoint": "4"
+  },
+  {
+    "Date": "11/1/2020",
+    "Carbon Black": "21.8",
+    "McAfee": "9.5",
+    "Tanium": "7.9",
+    "ForcePoint": "3.8"
+  },
+  {
+    "Date": "11/2/2020",
+    "Carbon Black": "22.2",
+    "McAfee": "9.8",
+    "Tanium": "8.2",
+    "ForcePoint": "3.9"
+  },
+  {
+    "Date": "11/3/2020",
+    "Carbon Black": "22.5",
+    "McAfee": "9.6",
+    "Tanium": "8.2",
+    "ForcePoint": "4.6"
+  },
+  {
+    "Date": "11/4/2020",
+    "Carbon Black": "23.2",
+    "McAfee": "10.1",
+    "Tanium": "8.3",
+    "ForcePoint": "5"
+  },
+  {
+    "Date": "11/5/2020",
+    "Carbon Black": "24",
+    "McAfee": "10.3",
+    "Tanium": "9",
+    "ForcePoint": "4.7"
+  },
+  {
+    "Date": "11/6/2020",
+    "Carbon Black": "25.5",
+    "McAfee": "10.8",
+    "Tanium": "9.2",
+    "ForcePoint": "5.7"
+  },
+  {
+    "Date": "11/7/2020",
+    "Carbon Black": "27.9",
+    "McAfee": "11.3",
+    "Tanium": "9.9",
+    "ForcePoint": "5.4"
+  },
+  {
+    "Date": "11/8/2020",
+    "Carbon Black": "29.2",
+    "McAfee": "12.6",
+    "Tanium": "10.8",
+    "ForcePoint": "5.5"
+  },
+  {
+    "Date": "11/9/2020",
+    "Carbon Black": "30.6",
+    "McAfee": "13.8",
+    "Tanium": "11.6",
+    "ForcePoint": "5.9"
+  },
+  {
+    "Date": "11/10/2020",
+    "Carbon Black": "31.8",
+    "McAfee": "13.8",
+    "Tanium": "12.3",
+    "ForcePoint": "5.9"
+  },
+  {
+    "Date": "11/11/2020",
+    "Carbon Black": "33.1",
+    "McAfee": "14.9",
+    "Tanium": "12.5",
+    "ForcePoint": "5.5"
+  },
+  {
+    "Date": "11/12/2020",
+    "Carbon Black": "34.2",
+    "McAfee": "12.5",
+    "Tanium": "12.8",
+    "ForcePoint": "6.8"
+  }
 ]
