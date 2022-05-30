@@ -150,37 +150,5 @@
       "cat": "Tanium",
       "count": 1414
     }
-  ],
-  "pie": [
-    {
-      "area": "MacOS",
-      "name": "洪",
-      "bill": 4588
-    },
-    {
-      "area": "Linux",
-      "name": "范彩",
-      "bill": 4205
-    },
-    {
-      "area": "Windows 7",
-      "name": "楚杰",
-      "bill": 2598
-    },
-    {
-      "area": "Windows 10",
-      "name": "殷莲",
-      "bill": 2148
-    },
-    {
-      "area": "Windows 2012",
-      "name": "白德伟",
-      "bill": 1763
-    },
-    {
-      "area": "Windows 2016",
-      "name": "杨健",
-      "bill": 974
-    }
   ]
 }
